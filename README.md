@@ -135,13 +135,13 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-
-'''
+```
 
 
 ## OUTPUT
 
-![Screenshot (167)](https://github.com/syedfayaz3105/slot1/assets/147144126/9aadb8eb-7941-4f9f-ae9b-b70ed0220334)
+![Screenshot (167)](https://github.com/syedfayaz3105/slot1/assets/147144126/84f61caa-b306-47c4-9fb9-91df390f032b)
+
 
 
 
